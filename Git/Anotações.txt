@@ -1,0 +1,15 @@
+-O Git Bash é um terminal extendido para otimizar o uso do Git 
+-Git é um sistema de versionamento de código distribuido 
+-Um sistema distribuído é um sistema que possui multiplas copias de sí mesmo em diferentes locais 
+Comandos 
+
+Cd .. : Retroceder 
+Mkdir:  Criar Pastas 
+> :Direcionar 
+Git init: para o GIT iniciar dentro de uma pasta 
+Git clone: para clonar 
+Git Status: Para Visualizar o status
+Git add . ou Git add -a: Para adionar todos os arquivos 
+Tecla Tab: Para auto completar 
+
+ 
